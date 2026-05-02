@@ -3,6 +3,8 @@
 💻 CS Student @ UT Dallas   
 🤖 AI + Full-Stack Developer 
 
+I'm a Computer Science student at UT Dallas focused on full-stack development and machine learning. I have experience building applications using tools like Python, FastAPI, and React, and I enjoy turning data into useful insights. I'm passionate about continuously improving my skills and applying them to real-world challenges.
+
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-blue)
 ![React](https://img.shields.io/badge/React-61DAFB)
