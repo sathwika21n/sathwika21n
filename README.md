@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**sathwika21n/sathwika21n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm Sathwika! 
+A Computer Science student at UT Dallas passionate about building real-world applications using full-stack development and AI. I’m passionate about building impactful tech and continuously learning how to apply my skills to real-world problems.
 
 - 🔭 I’m currently working on:
     Full-stack projects and AI-based applications
@@ -26,4 +22,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact:
     I love combining psychology + tech to build meaningful applications
--->
