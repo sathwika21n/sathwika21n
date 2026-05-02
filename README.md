@@ -15,6 +15,7 @@ A Computer Science student at UT Dallas passionate about building real-world app
 
 📫 How to reach me:
     LinkedIN: www.linkedin.com/in/sathwika-thatiparthi-221019230 
+    
     Email: sathwika21n@gmail.com
 
 😄 Pronouns:
