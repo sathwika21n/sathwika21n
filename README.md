@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! My name is Sathwika and I'm a CS student & AI developer from Texas</h2>
+<h2 align="left">Hi 👋! My name is Sathwika and I'm a CS student & AI developer</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwika21n&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwika21n&layout=compact&theme=tokyonight" height="150" />
-</div>
+<img src="https://streak-stats.demolab.com?user=sathwika21n&theme=tokyonight" />
 
 ###
 
