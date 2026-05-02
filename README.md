@@ -1,7 +1,7 @@
 ## Hi, I'm Sathwika! 
 
-💻 CS Student @ UT Dallas  
-🤖 AI + Full-Stack Developer  s.
+💻 CS Student @ UT Dallas   
+🤖 AI + Full-Stack Developer 
 
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-blue)
