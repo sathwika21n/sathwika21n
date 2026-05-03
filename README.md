@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://streak-stats.demolab.com?user=sathwika21n&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Building+Real-World+Projects" />
 
 ###
 
