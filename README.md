@@ -5,11 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Building+Real-World+Projects" />
 
 ###
-
-<img align="right" height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-###
-
+<img align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1hZDdqZXNtcnYyZzI1cWZoNzZ0cDRqMmsxbXlwenM0cjJwdTlqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RM2VLuyiZ1qOSiTev6/giphy.gif" />
 <h3 align="left">💫 About Me</h3>
 
 <p align="left">
